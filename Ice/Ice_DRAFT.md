@@ -1,7 +1,7 @@
 # HYDRO ICE: DECENTRALIZED DOCUMENT MANAGEMENT 
 
 ### July 2018
-
+tutorial
 
 ## TABLE OF CONTENTS
 - Abstract
